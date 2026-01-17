@@ -1,2 +1,3 @@
 print("this is python")
-print("you learning git and github")
+name = "showmick"
+print(f"you learning git and github {name}")
